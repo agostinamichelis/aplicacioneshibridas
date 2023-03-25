@@ -1,0 +1,11 @@
+{
+  "name": "tp-actividad-2---servidor-node",
+  "version": "1.0.0",
+  "description": "app simple para aplicaciones hibridas",
+  "main": "server.js",
+  "scripts": {
+    "server": "server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
